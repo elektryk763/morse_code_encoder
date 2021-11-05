@@ -1,0 +1,2 @@
+arduino nano
+How use this program? You must load program on arduino board and open serial port. In serial port you write text and on pin 13 you have cod on morse.
